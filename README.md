@@ -17,12 +17,12 @@ Coding standard for contributing is PSR-2.
 Example shortcode usage
 -----------------------
 
-[lilypond]
-\relative c' {
-  \time 4/4
-  c4 d e f g a b c
-}
-[/lilypond]
+    [lilypond]
+    \relative c' {
+      \time 4/4
+      c4 d e f g a b c
+    }
+    [/lilypond]
 
 TODOs
 -----
