@@ -1,6 +1,7 @@
 {
     "name": "jasonstitt/lilypond",
     "type": "wordpress-plugin",
+    "version": "0.1.0",
     "require": {
         "composer/installers": "~1.0"
     }
